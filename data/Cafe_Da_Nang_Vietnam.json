@@ -1,0 +1,32 @@
+[
+  {
+    "name": "The Muse Coffee",
+    "address": "N/A",
+    "rating": "4.1",
+    "link": "https://www.google.com/maps/place/The+Muse+Coffee/data=!4m7!3m6!1s0x31421900536245d1:0x35b165844b491171!8m2!3d16.0488697!4d108.2210983!16s%2Fg%2F11ld1d_xzb!19sChIJ0UViUwAZQjERcRFJS4RlsTU?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "name": "XLIII Specialty Coffee",
+    "address": "N/A",
+    "rating": "4.7",
+    "link": "https://www.google.com/maps/place/XLIII+Specialty+Coffee/data=!4m7!3m6!1s0x314217b3ee661bef:0x516cdf137fb627ef!8m2!3d16.0480872!4d108.2460233!16s%2Fg%2F11g10nqwyc!19sChIJ7xtm7rMXQjER7ye2fxPfbFE?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "name": "Ante Café",
+    "address": "N/A",
+    "rating": "4.5",
+    "link": "https://www.google.com/maps/place/Ante+Caf%C3%A9/data=!4m7!3m6!1s0x3142194943bab715:0xfe50a8f722bfc108!8m2!3d16.0561128!4d108.2227785!16s%2Fg%2F11mb43y7wf!19sChIJFbe6Q0kZQjERCMG_IveoUP4?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "name": "Roost Coffee Roasters | Da Nang",
+    "address": "N/A",
+    "rating": "4.9",
+    "link": "https://www.google.com/maps/place/Roost+Coffee+Roasters+%7C+Da+Nang/data=!4m7!3m6!1s0x31421724b9f30a89:0x8cbb28ee01d72686!8m2!3d16.0433923!4d108.2440618!16s%2Fg%2F11kq2mfb_9!19sChIJiQrzuSQXQjERhibXAe4ou4w?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "name": "Gé Cafe",
+    "address": "N/A",
+    "rating": "4.3",
+    "link": "https://www.google.com/maps/place/G%C3%A9+Cafe/data=!4m7!3m6!1s0x314219fa6c34dc6d:0x4676f79b884440cf!8m2!3d16.0639729!4d108.2226686!16s%2Fg%2F11slq8804g!19sChIJbdw0bPoZQjERz0BEiJv3dkY?authuser=0&hl=en&rclk=1"
+  }
+]
