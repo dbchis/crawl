@@ -3,30 +3,100 @@
     "name": "The Muse Coffee",
     "address": "N/A",
     "rating": "4.1",
-    "link": "https://www.google.com/maps/place/The+Muse+Coffee/data=!4m7!3m6!1s0x31421900536245d1:0x35b165844b491171!8m2!3d16.0488697!4d108.2210983!16s%2Fg%2F11ld1d_xzb!19sChIJ0UViUwAZQjERcRFJS4RlsTU?authuser=0&hl=en&rclk=1"
-  },
-  {
-    "name": "XLIII Specialty Coffee",
-    "address": "N/A",
-    "rating": "4.7",
-    "link": "https://www.google.com/maps/place/XLIII+Specialty+Coffee/data=!4m7!3m6!1s0x314217b3ee661bef:0x516cdf137fb627ef!8m2!3d16.0480872!4d108.2460233!16s%2Fg%2F11g10nqwyc!19sChIJ7xtm7rMXQjER7ye2fxPfbFE?authuser=0&hl=en&rclk=1"
-  },
-  {
-    "name": "Ante Café",
-    "address": "N/A",
-    "rating": "4.5",
-    "link": "https://www.google.com/maps/place/Ante+Caf%C3%A9/data=!4m7!3m6!1s0x3142194943bab715:0xfe50a8f722bfc108!8m2!3d16.0561128!4d108.2227785!16s%2Fg%2F11mb43y7wf!19sChIJFbe6Q0kZQjERCMG_IveoUP4?authuser=0&hl=en&rclk=1"
-  },
-  {
-    "name": "Roost Coffee Roasters | Da Nang",
-    "address": "N/A",
-    "rating": "4.9",
-    "link": "https://www.google.com/maps/place/Roost+Coffee+Roasters+%7C+Da+Nang/data=!4m7!3m6!1s0x31421724b9f30a89:0x8cbb28ee01d72686!8m2!3d16.0433923!4d108.2440618!16s%2Fg%2F11kq2mfb_9!19sChIJiQrzuSQXQjERhibXAe4ou4w?authuser=0&hl=en&rclk=1"
+    "link": "https://www.google.com/maps/place/The+Muse+Coffee/data=!4m7!3m6!1s0x31421900536245d1:0x35b165844b491171!8m2!3d16.0488697!4d108.2210983!16s%2Fg%2F11ld1d_xzb!19sChIJ0UViUwAZQjERcRFJS4RlsTU?authuser=0&hl=en&rclk=1",
+    "address_detail": "109 Núi Thành, Hoà Cường Bắc, Hải Châu, Đà Nẵng 550000",
+    "phone": "0905 445 529",
+    "website": "N/A",
+    "plus_code": "26XC+GC Hải Châu District, Da Nang",
+    "price_range": "N/A",
+    "open_hours": {
+      "Wednesday": "6 AM–11 PM",
+      "Thursday": "6 AM–11 PM",
+      "Friday": "6 AM–11 PM",
+      "Saturday": "6 AM–11 PM",
+      "Sunday": "6 AM–11 PM",
+      "Monday": "6 AM–11 PM",
+      "Tuesday": "6 AM–11 PM"
+    }
   },
   {
     "name": "Gé Cafe",
     "address": "N/A",
     "rating": "4.3",
-    "link": "https://www.google.com/maps/place/G%C3%A9+Cafe/data=!4m7!3m6!1s0x314219fa6c34dc6d:0x4676f79b884440cf!8m2!3d16.0639729!4d108.2226686!16s%2Fg%2F11slq8804g!19sChIJbdw0bPoZQjERz0BEiJv3dkY?authuser=0&hl=en&rclk=1"
+    "link": "https://www.google.com/maps/place/G%C3%A9+Cafe/data=!4m7!3m6!1s0x314219fa6c34dc6d:0x4676f79b884440cf!8m2!3d16.0639729!4d108.2226686!16s%2Fg%2F11slq8804g!19sChIJbdw0bPoZQjERz0BEiJv3dkY?authuser=0&hl=en&rclk=1",
+    "address_detail": "24 Lê Hồng Phong, Phước Ninh, Hải Châu, Đà Nẵng 550000",
+    "phone": "0934 916 085",
+    "website": "https://www.facebook.com/gecafedanang",
+    "plus_code": "367F+H3 Hải Châu District, Da Nang",
+    "price_range": "N/A",
+    "open_hours": {
+      "Wednesday": "6 AM–3 AM",
+      "Thursday": "6 AM–3 AM",
+      "Friday": "6 AM–3 AM",
+      "Saturday": "6 AM–3 AM",
+      "Sunday": "6 AM–3 AM",
+      "Monday": "6 AM–3 AM",
+      "Tuesday": "6 AM–3 AM"
+    }
+  },
+  {
+    "name": "Trình cà phê",
+    "address": "N/A",
+    "rating": "4.8",
+    "link": "https://www.google.com/maps/place/Tr%C3%ACnh+c%C3%A0+ph%C3%AA/data=!4m7!3m6!1s0x314217b76e56e1d9:0xcd8455fecf74c490!8m2!3d16.067348!4d108.2217426!16s%2Fg%2F11f9hdgyv2!19sChIJ2eFWbrcXQjERkMR0z_5VhM0?authuser=0&hl=en&rclk=1",
+    "address_detail": "25 Phạm Hồng Thái, Hải Châu, Đà Nẵng 55000",
+    "phone": "0932 453 811",
+    "website": "https://www.facebook.com/trinhcaphedn/",
+    "plus_code": "368C+WM Hải Châu District, Da Nang",
+    "price_range": "N/A",
+    "open_hours": {
+      "Wednesday": "6:30 AM–1:30 AM",
+      "Thursday": "6:30 AM–1:30 AM",
+      "Friday": "6:30 AM–1:30 AM",
+      "Saturday": "6:30 AM–1:30 AM",
+      "Sunday": "6:30 AM–1:30 AM",
+      "Monday": "6:30 AM–1:30 AM",
+      "Tuesday": "6:30 AM–1:30 AM"
+    }
+  },
+  {
+    "name": "NORMAD CAFE - Da Nang",
+    "address": "N/A",
+    "rating": "4.6",
+    "link": "https://www.google.com/maps/place/NORMAD+CAFE+-+Da+Nang/data=!4m7!3m6!1s0x31421978ac2e2107:0x93262a7c5fa2720!8m2!3d16.0711437!4d108.2362378!16s%2Fg%2F11kq5tqgwj!19sChIJByEurHgZQjERICf6xadiMgk?authuser=0&hl=en&rclk=1",
+    "address_detail": "106 Phạm Văn Đồng, An Hải, Sơn Trà, Đà Nẵng 550000",
+    "phone": "0784 888 828",
+    "website": "http://normad.com.vn/",
+    "plus_code": "36CP+FF Sơn Trà, Da Nang",
+    "price_range": "N/A",
+    "open_hours": {
+      "Wednesday": "7 AM–12 AM",
+      "Thursday": "7 AM–12 AM",
+      "Friday": "7 AM–12 AM",
+      "Saturday": "7 AM–12 AM",
+      "Sunday": "7 AM–12 AM",
+      "Monday": "7 AM–12 AM",
+      "Tuesday": "7 AM–12 AM"
+    }
+  },
+  {
+    "name": "XLIII Specialty Coffee",
+    "address": "N/A",
+    "rating": "4.7",
+    "link": "https://www.google.com/maps/place/XLIII+Specialty+Coffee/data=!4m7!3m6!1s0x314217b3ee661bef:0x516cdf137fb627ef!8m2!3d16.0480872!4d108.2460233!16s%2Fg%2F11g10nqwyc!19sChIJ7xtm7rMXQjER7ye2fxPfbFE?authuser=0&hl=en&rclk=1",
+    "address_detail": "422 Đ. Ng. Thì Sĩ, Bắc Mỹ An, Ngũ Hành Sơn, Đà Nẵng 550000",
+    "phone": "0799 343 943",
+    "website": "https://xliiicoffee.com/",
+    "plus_code": "26XW+6C Ngũ Hành Sơn, Da Nang",
+    "price_range": "N/A",
+    "open_hours": {
+      "Wednesday": "6:30 AM–10:30 PM",
+      "Thursday": "6:30 AM–10:30 PM",
+      "Friday": "6:30 AM–10:30 PM",
+      "Saturday": "6:30 AM–10:30 PM",
+      "Sunday": "6:30 AM–10:30 PM",
+      "Monday": "6:30 AM–10:30 PM",
+      "Tuesday": "6:30 AM–10:30 PM"
+    }
   }
 ]

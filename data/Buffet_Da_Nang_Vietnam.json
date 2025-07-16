@@ -1,32 +1,102 @@
 [
   {
-    "name": "Scallywags Bar and Grill",
-    "address": "N/A",
-    "rating": "4.4",
-    "link": "https://www.google.com/maps/place/Scallywags+Bar+and+Grill/data=!4m7!3m6!1s0x314217b6d6c4476f:0x1eaa6e7bc914a264!8m2!3d16.047821!4d108.245574!16s%2Fg%2F11tfnq47bm!19sChIJb0fE1rYXQjERZKIUyXtuqh4?authuser=0&hl=en&rclk=1"
-  },
-  {
     "name": "All Seasons Buffet Da Nang",
     "address": "N/A",
     "rating": "4.9",
-    "link": "https://www.google.com/maps/place/All+Seasons+Buffet+Da+Nang/data=!4m7!3m6!1s0x3142177abb885d07:0x8a7c9d0d632f15d9!8m2!3d16.055459!4d108.2430332!16s%2Fg%2F11lds3gkxv!19sChIJB12Iu3oXQjER2RUvYw2dfIo?authuser=0&hl=en&rclk=1"
+    "link": "https://www.google.com/maps/place/All+Seasons+Buffet+Da+Nang/data=!4m7!3m6!1s0x3142177abb885d07:0x8a7c9d0d632f15d9!8m2!3d16.055459!4d108.2430332!16s%2Fg%2F11lds3gkxv!19sChIJB12Iu3oXQjER2RUvYw2dfIo?authuser=0&hl=en&rclk=1",
+    "address_detail": "193 Nguyễn Văn Thoại, An Hải Đông, Ngũ Hành Sơn, Đà Nẵng 550000",
+    "phone": "0764 068 111",
+    "website": "https://www.allseasonsbuffet.com/",
+    "plus_code": "364V+56 Ngũ Hành Sơn, Da Nang",
+    "price_range": "N/A",
+    "open_hours": {
+      "Wednesday": "11 AM–2:30 PM5–10 PM",
+      "Thursday": "11 AM–2:30 PM5–10 PM",
+      "Friday": "11 AM–2:30 PM5–10 PM",
+      "Saturday": "11 AM–2:30 PM5–10 PM",
+      "Sunday": "11 AM–2:30 PM5–10 PM",
+      "Monday": "11 AM–2:30 PM5–10 PM",
+      "Tuesday": "11 AM–2:30 PM5–10 PM"
+    }
   },
   {
     "name": "Yen Yakiniku & Izakaya – Buffet Nướng Nhật Bản tại Đà Nẵng 38 Trần Quốc Toản",
     "address": "N/A",
     "rating": "4.7",
-    "link": "https://www.google.com/maps/place/Yen+Yakiniku+%26+Izakaya+%E2%80%93+Buffet+N%C6%B0%E1%BB%9Bng+Nh%E1%BA%ADt+B%E1%BA%A3n+t%E1%BA%A1i+%C4%90%C3%A0+N%E1%BA%B5ng+38+Tr%E1%BA%A7n+Qu%E1%BB%91c+To%E1%BA%A3n/data=!4m7!3m6!1s0x314219d44f2f2b65:0x760bf5c49e0bea7f!8m2!3d16.0664639!4d108.2220671!16s%2Fg%2F11t72ch1h5!19sChIJZSsvT9QZQjERf-oLnsT1C3Y?authuser=0&hl=en&rclk=1"
+    "link": "https://www.google.com/maps/place/Yen+Yakiniku+%26+Izakaya+%E2%80%93+Buffet+N%C6%B0%E1%BB%9Bng+Nh%E1%BA%ADt+B%E1%BA%A3n+t%E1%BA%A1i+%C4%90%C3%A0+N%E1%BA%B5ng+38+Tr%E1%BA%A7n+Qu%E1%BB%91c+To%E1%BA%A3n/data=!4m7!3m6!1s0x314219d44f2f2b65:0x760bf5c49e0bea7f!8m2!3d16.0664639!4d108.2220671!16s%2Fg%2F11t72ch1h5!19sChIJZSsvT9QZQjERf-oLnsT1C3Y?authuser=0&hl=en&rclk=1",
+    "address_detail": "38 Trần Quốc Toản, Hải Châu, Đà Nẵng 550000",
+    "phone": "0903 559 447",
+    "website": "https://yenyakiniku.vn/",
+    "plus_code": "368C+HR Hải Châu District, Da Nang",
+    "price_range": "N/A",
+    "open_hours": {
+      "Wednesday": "11 AM–3 PM5–10:30 PM",
+      "Thursday": "11 AM–3 PM5–10:30 PM",
+      "Friday": "11 AM–3 PM5–10:30 PM",
+      "Saturday": "11 AM–3:30 PM5–11 PM",
+      "Sunday": "11 AM–3:30 PM5–11 PM",
+      "Monday": "11 AM–3 PM5–10:30 PM",
+      "Tuesday": "11 AM–3 PM5–10:30 PM"
+    }
   },
   {
     "name": "Doc moc buffet",
     "address": "N/A",
     "rating": "4.6",
-    "link": "https://www.google.com/maps/place/Doc+moc+buffet/data=!4m7!3m6!1s0x3142175e5a3ab1cd:0xa86d7dd7f962e581!8m2!3d16.0563295!4d108.2434237!16s%2Fg%2F11tnfh5jjp!19sChIJzbE6Wl4XQjERgeVi-dd9bag?authuser=0&hl=en&rclk=1"
+    "link": "https://www.google.com/maps/place/Doc+moc+buffet/data=!4m7!3m6!1s0x3142175e5a3ab1cd:0xa86d7dd7f962e581!8m2!3d16.0563295!4d108.2434237!16s%2Fg%2F11tnfh5jjp!19sChIJzbE6Wl4XQjERgeVi-dd9bag?authuser=0&hl=en&rclk=1",
+    "address_detail": "K209/05, Nguyễn Văn Thoại, An Hải, Sơn Trà, Đà Nẵng 550000",
+    "phone": "0905 456 033",
+    "website": "https://docmocbuffet.com/",
+    "plus_code": "364V+G9 Sơn Trà, Da Nang",
+    "price_range": "N/A",
+    "open_hours": {
+      "Wednesday": "5–10 PM",
+      "Thursday": "5–10 PM",
+      "Friday": "5–10 PM",
+      "Saturday": "5–10 PM",
+      "Sunday": "5–10 PM",
+      "Monday": "5–10 PM",
+      "Tuesday": "5–10 PM"
+    }
   },
   {
     "name": "SOHO Buffet & Alacarte",
     "address": "N/A",
     "rating": "3.5",
-    "link": "https://www.google.com/maps/place/SOHO+Buffet+%26+Alacarte/data=!4m7!3m6!1s0x314219c4f4ac9b2f:0xa370fda9437d58ce!8m2!3d16.0483599!4d108.2231133!16s%2Fg%2F11c6s17q4s!19sChIJL5us9MQZQjERzlh9Q6n9cKM?authuser=0&hl=en&rclk=1"
+    "link": "https://www.google.com/maps/place/SOHO+Buffet+%26+Alacarte/data=!4m7!3m6!1s0x314219c4f4ac9b2f:0xa370fda9437d58ce!8m2!3d16.0483599!4d108.2231133!16s%2Fg%2F11c6s17q4s!19sChIJL5us9MQZQjERzlh9Q6n9cKM?authuser=0&hl=en&rclk=1",
+    "address_detail": "Lô 1+2_A5.6 Khu Công Viên Bắc Đài Tưởng Niệm, Hải Châu, 550000",
+    "phone": "0777 085 789",
+    "website": "https://nhahangsoho.com/",
+    "plus_code": "26XF+86 Hải Châu District, Da Nang",
+    "price_range": "N/A",
+    "open_hours": {
+      "Wednesday": "10:30 AM–2 PM5:30–10 PM",
+      "Thursday": "10:30 AM–2 PM5:30–10 PM",
+      "Friday": "10:30 AM–2 PM5:30–10 PM",
+      "Saturday": "10:30 AM–2 PM5:30–10 PM",
+      "Sunday": "10:30 AM–2 PM5:30–10 PM",
+      "Monday": "10:30 AM–2 PM5:30–10 PM",
+      "Tuesday": "10:30 AM–2 PM5:30–10 PM"
+    }
+  },
+  {
+    "name": "MAMA HOT POT Buffet (Chi Nhánh Võ Văn Kiệt)",
+    "address": "N/A",
+    "rating": "4.9",
+    "link": "https://www.google.com/maps/place/MAMA+HOT+POT+Buffet+%28Chi+Nh%C3%A1nh+V%C3%B5+V%C4%83n+Ki%E1%BB%87t%29/data=!4m7!3m6!1s0x314219fe9fd40f11:0xc8a5cb0b99ef1401!8m2!3d16.0618794!4d108.2352186!16s%2Fg%2F11ngspm69k!19sChIJEQ_Un_4ZQjERARTvmQvLpcg?authuser=0&hl=en&rclk=1",
+    "address_detail": "Lô 1 Võ Văn Kiệt, An Hải Bắc, Sơn Trà, Đà Nẵng 550000",
+    "phone": "0777 000 580",
+    "website": "https://www.facebook.com/mamahotpot.buffet.vvk",
+    "plus_code": "366P+Q3 Sơn Trà, Da Nang",
+    "price_range": "N/A",
+    "open_hours": {
+      "Wednesday": "10 AM–2 PM5–10 PM",
+      "Thursday": "10 AM–2 PM5–10 PM",
+      "Friday": "10 AM–2 PM5–10 PM",
+      "Saturday": "10 AM–10 PM",
+      "Sunday": "10 AM–10 PM",
+      "Monday": "10 AM–2 PM5–10 PM",
+      "Tuesday": "10 AM–2 PM5–10 PM"
+    }
   }
 ]

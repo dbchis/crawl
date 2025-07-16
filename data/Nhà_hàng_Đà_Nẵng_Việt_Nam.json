@@ -1,32 +1,102 @@
 [
   {
-    "name": "Pause and Enjoy Da Nang- 포즈 앤 엔조이",
-    "address": "N/A",
-    "rating": "5.0",
-    "link": "https://www.google.com/maps/place/Pause+and+Enjoy+Da+Nang-+%ED%8F%AC%EC%A6%88+%EC%95%A4+%EC%97%94%EC%A1%B0%EC%9D%B4/data=!4m7!3m6!1s0x3142192132b38f29:0xee808906b563bf3b!8m2!3d16.069632!4d108.222978!16s%2Fg%2F11lp2zdmlk!19sChIJKY-zMiEZQjERO79jtQaJgO4?authuser=0&hl=en&rclk=1"
-  },
-  {
     "name": "Nhà Gỗ Restaurant Da Nang",
     "address": "N/A",
     "rating": "4.9",
-    "link": "https://www.google.com/maps/place/Nh%C3%A0+G%E1%BB%97+Restaurant+Da+Nang/data=!4m7!3m6!1s0x3142196e455d2b63:0xafc2ec3a033d5eeb!8m2!3d16.0679495!4d108.2232911!16s%2Fg%2F11wqtkbc2s!19sChIJYytdRW4ZQjER6149Azrswq8?authuser=0&hl=en&rclk=1"
+    "link": "https://www.google.com/maps/place/Nh%C3%A0+G%E1%BB%97+Restaurant+Da+Nang/data=!4m7!3m6!1s0x3142196e455d2b63:0xafc2ec3a033d5eeb!8m2!3d16.0679495!4d108.2232911!16s%2Fg%2F11wqtkbc2s!19sChIJYytdRW4ZQjER6149Azrswq8?authuser=0&hl=en&rclk=1",
+    "address_detail": "49 Nguyễn Thái Học, Hải Châu, Đà Nẵng 550000",
+    "phone": "0342 454 487",
+    "website": "https://nhagoviet.imweb.me/",
+    "plus_code": "369F+58 Hải Châu District, Da Nang",
+    "price_range": "N/A",
+    "open_hours": {
+      "Wednesday": "9 AM–9 PM",
+      "Thursday": "9 AM–9 PM",
+      "Friday": "9 AM–9 PM",
+      "Saturday": "9 AM–9 PM",
+      "Sunday": "9 AM–9 PM",
+      "Monday": "9 AM–9 PM",
+      "Tuesday": "9 AM–9 PM"
+    }
   },
   {
     "name": "Nhà hàng NHÀ BẾP CHỢ HÀN",
     "address": "N/A",
     "rating": "4.7",
-    "link": "https://www.google.com/maps/place/Nh%C3%A0+h%C3%A0ng+NH%C3%80+B%E1%BA%BEP+CH%E1%BB%A2+H%C3%80N/data=!4m7!3m6!1s0x3142192dea33553f:0x67195ccda4ab2f7f!8m2!3d16.0687376!4d108.2243375!16s%2Fg%2F11t9c4w9cn!19sChIJP1Uz6i0ZQjERfy-rpM1cGWc?authuser=0&hl=en&rclk=1"
+    "link": "https://www.google.com/maps/place/Nh%C3%A0+h%C3%A0ng+NH%C3%80+B%E1%BA%BEP+CH%E1%BB%A2+H%C3%80N/data=!4m7!3m6!1s0x3142192dea33553f:0x67195ccda4ab2f7f!8m2!3d16.0687376!4d108.2243375!16s%2Fg%2F11t9c4w9cn!19sChIJP1Uz6i0ZQjERfy-rpM1cGWc?authuser=0&hl=en&rclk=1",
+    "address_detail": "22 Hùng Vương, Hải Châu, Đà Nẵng 550000",
+    "phone": "0236 3966 268",
+    "website": "https://cafe.naver.com/flymap",
+    "plus_code": "369F+FP Hải Châu District, Da Nang",
+    "price_range": "N/A",
+    "open_hours": {
+      "Wednesday": "9 AM–10 PM",
+      "Thursday": "9 AM–10 PM",
+      "Friday": "9 AM–10 PM",
+      "Saturday": "9 AM–10 PM",
+      "Sunday": "9 AM–10 PM",
+      "Monday": "9 AM–10 PM",
+      "Tuesday": "9 AM–10 PM"
+    }
   },
   {
     "name": "Cơm nhà vui",
     "address": "N/A",
     "rating": "4.9",
-    "link": "https://www.google.com/maps/place/C%C6%A1m+nh%C3%A0+vui/data=!4m7!3m6!1s0x314219ab4ef3958b:0x960f6fc7c1db919f!8m2!3d16.0566182!4d108.2220671!16s%2Fg%2F11k02pk2dj!19sChIJi5XzTqsZQjERn5HbwcdvD5Y?authuser=0&hl=en&rclk=1"
+    "link": "https://www.google.com/maps/place/C%C6%A1m+nh%C3%A0+vui/data=!4m7!3m6!1s0x314219ab4ef3958b:0x960f6fc7c1db919f!8m2!3d16.0566182!4d108.2220671!16s%2Fg%2F11k02pk2dj!19sChIJi5XzTqsZQjERn5HbwcdvD5Y?authuser=0&hl=en&rclk=1",
+    "address_detail": "86 Đ. 2 Tháng 9, Phước Ninh, Hải Châu, Đà Nẵng 10000",
+    "phone": "0933 865 786",
+    "website": "N/A",
+    "plus_code": "364C+JR Hải Châu District, Da Nang",
+    "price_range": "N/A",
+    "open_hours": {
+      "Wednesday": "10 AM–10 PM",
+      "Thursday": "10 AM–10 PM",
+      "Friday": "10 AM–10 PM",
+      "Saturday": "10 AM–10 PM",
+      "Sunday": "10 AM–10 PM",
+      "Monday": "10 AM–10 PM",
+      "Tuesday": "10 AM–10 PM"
+    }
   },
   {
     "name": "Bếp Hên",
     "address": "N/A",
     "rating": "4.5",
-    "link": "https://www.google.com/maps/place/B%E1%BA%BFp+H%C3%AAn/data=!4m7!3m6!1s0x314219b85d3066c5:0x49abed782034b9e8!8m2!3d16.0639161!4d108.2210361!16s%2Fg%2F11h0vttspf!19sChIJxWYwXbgZQjER6Lk0IHjtq0k?authuser=0&hl=en&rclk=1"
+    "link": "https://www.google.com/maps/place/B%E1%BA%BFp+H%C3%AAn/data=!4m7!3m6!1s0x314219b85d3066c5:0x49abed782034b9e8!8m2!3d16.0639161!4d108.2210361!16s%2Fg%2F11h0vttspf!19sChIJxWYwXbgZQjER6Lk0IHjtq0k?authuser=0&hl=en&rclk=1",
+    "address_detail": "47 Lê Hồng Phong, Phước Ninh, Hải Châu, Đà Nẵng 84236",
+    "phone": "0935 337 705",
+    "website": "https://www.bephenrestaurant.com/",
+    "plus_code": "367C+HC Hải Châu District, Da Nang",
+    "price_range": "N/A",
+    "open_hours": {
+      "Wednesday": "9 AM–2:30 PM5–8:30 PM",
+      "Thursday": "9 AM–2:30 PM5–8:30 PM",
+      "Friday": "9 AM–2:30 PM5–8:30 PM",
+      "Saturday": "9 AM–2:30 PM5–8:30 PM",
+      "Sunday": "9 AM–2:30 PM5–8:30 PM",
+      "Monday": "9 AM–2:30 PM5–8:30 PM",
+      "Tuesday": "9 AM–2:30 PM5–8:30 PM"
+    }
+  },
+  {
+    "name": "Nhà Hàng Biển Việt",
+    "address": "N/A",
+    "rating": "4.8",
+    "link": "https://www.google.com/maps/place/Nh%C3%A0+H%C3%A0ng+Bi%E1%BB%83n+Vi%E1%BB%87t/data=!4m7!3m6!1s0x3142178afb017ca7:0xb79cbe177e1b0a2e!8m2!3d16.0553896!4d108.2457142!16s%2Fg%2F11t7bttsnf!19sChIJp3wB-4oXQjERLgobfhe-nLc?authuser=0&hl=en&rclk=1",
+    "address_detail": "64 An Thượng 26, Bắc Mỹ Phú, Ngũ Hành Sơn, Đà Nẵng 550000",
+    "phone": "0926 999 336",
+    "website": "N/A",
+    "plus_code": "364W+57 Ngũ Hành Sơn, Da Nang",
+    "price_range": "N/A",
+    "open_hours": {
+      "Wednesday": "10 AM–11:30 PM",
+      "Thursday": "10 AM–11:30 PM",
+      "Friday": "10 AM–11:30 PM",
+      "Saturday": "10 AM–11:30 PM",
+      "Sunday": "10 AM–11:30 PM",
+      "Monday": "10 AM–11:30 PM",
+      "Tuesday": "10 AM–11:30 PM"
+    }
   }
 ]

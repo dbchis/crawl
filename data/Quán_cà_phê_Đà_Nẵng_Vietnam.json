@@ -1,152 +1,102 @@
 [
   {
-    "name": "Vối cà phê- tiệm cà phê nhà Vối",
+    "name": "Daisy Coffee",
     "address": "N/A",
     "rating": "4.6",
-    "link": "https://www.google.com/maps/place/V%E1%BB%91i+c%C3%A0+ph%C3%AA-+ti%E1%BB%87m+c%C3%A0+ph%C3%AA+nh%C3%A0+V%E1%BB%91i/data=!4m7!3m6!1s0x314219c9ca7a1b63:0x46340e7fc0f2c717!8m2!3d16.0474011!4d108.2087224!16s%2Fg%2F11ptyx_x5_!19sChIJYxt6yskZQjERF8fywH8ONEY?authuser=0&hl=en&rclk=1"
-  },
-  {
-    "name": "Cà Phê Muối Huế 3 - N Salt Cafe Trần Phú",
-    "address": "N/A",
-    "rating": "4.7",
-    "link": "https://www.google.com/maps/place/C%C3%A0+Ph%C3%AA+Mu%E1%BB%91i+Hu%E1%BA%BF+3+-+N+Salt+Cafe+Tr%E1%BA%A7n+Ph%C3%BA/data=!4m7!3m6!1s0x314219b9f95093ff:0x9c227b38dfe8cb20!8m2!3d16.0627037!4d108.223172!16s%2Fg%2F11t608llp3!19sChIJ_5NQ-bkZQjERIMvo3zh7Ipw?authuser=0&hl=en&rclk=1"
+    "link": "https://www.google.com/maps/place/Daisy+Coffee/data=!4m7!3m6!1s0x314219c3ad7e98d9:0x8716452092e783f6!8m2!3d16.0444273!4d108.2221276!16s%2Fg%2F11j00ss_rs!19sChIJ2Zh-rcMZQjER9oPnkiBFFoc?authuser=0&hl=en&rclk=1",
+    "address_detail": "16 Nguyễn Sơn Trà, Hoà Cường Bắc, Hải Châu, Đà Nẵng 550000",
+    "phone": "N/A",
+    "website": "N/A",
+    "plus_code": "26VC+QV Hải Châu District, Da Nang",
+    "price_range": "N/A",
+    "open_hours": {
+      "Wednesday": "5–11 PM",
+      "Thursday": "5–11 PM",
+      "Friday": "5–11 PM",
+      "Saturday": "5–11 PM",
+      "Sunday": "5–11 PM",
+      "Monday": "5–11 PM",
+      "Tuesday": "5–11 PM"
+    }
   },
   {
     "name": "Trình cà phê",
     "address": "N/A",
     "rating": "4.8",
-    "link": "https://www.google.com/maps/place/Tr%C3%ACnh+c%C3%A0+ph%C3%AA/data=!4m7!3m6!1s0x314217b76e56e1d9:0xcd8455fecf74c490!8m2!3d16.067348!4d108.2217426!16s%2Fg%2F11f9hdgyv2!19sChIJ2eFWbrcXQjERkMR0z_5VhM0?authuser=0&hl=en&rclk=1"
+    "link": "https://www.google.com/maps/place/Tr%C3%ACnh+c%C3%A0+ph%C3%AA/data=!4m7!3m6!1s0x314217b76e56e1d9:0xcd8455fecf74c490!8m2!3d16.067348!4d108.2217426!16s%2Fg%2F11f9hdgyv2!19sChIJ2eFWbrcXQjERkMR0z_5VhM0?authuser=0&hl=en&rclk=1",
+    "address_detail": "25 Phạm Hồng Thái, Hải Châu, Đà Nẵng 55000",
+    "phone": "0932 453 811",
+    "website": "https://www.facebook.com/trinhcaphedn/",
+    "plus_code": "368C+WM Hải Châu District, Da Nang",
+    "price_range": "N/A",
+    "open_hours": {
+      "Wednesday": "6:30 AM–1:30 AM",
+      "Thursday": "6:30 AM–1:30 AM",
+      "Friday": "6:30 AM–1:30 AM",
+      "Saturday": "6:30 AM–1:30 AM",
+      "Sunday": "6:30 AM–1:30 AM",
+      "Monday": "6:30 AM–1:30 AM",
+      "Tuesday": "6:30 AM–1:30 AM"
+    }
   },
   {
-    "name": "PASSPORT Coffee Roastery",
-    "address": "N/A",
-    "rating": "4.5",
-    "link": "https://www.google.com/maps/place/PASSPORT+Coffee+Roastery/data=!4m7!3m6!1s0x3142191a5cd97919:0x2f11535e9a6b2ec3!8m2!3d16.0597407!4d108.2045725!16s%2Fg%2F11p6x_9knh!19sChIJGXnZXBoZQjERwy5rml5TES8?authuser=0&hl=en&rclk=1"
-  },
-  {
-    "name": "Tie Tag Coffee",
-    "address": "N/A",
-    "rating": "4.9",
-    "link": "https://www.google.com/maps/place/Tie+Tag+Coffee/data=!4m7!3m6!1s0x3142195e33797f8f:0xe261bcf86be32603!8m2!3d16.06503!4d108.2230581!16s%2Fg%2F11px9cy1_p!19sChIJj395M14ZQjERAybja_i8YeI?authuser=0&hl=en&rclk=1"
-  },
-  {
-    "name": "Reply 1988 Cafe",
-    "address": "N/A",
-    "rating": "4.6",
-    "link": "https://www.google.com/maps/place/Reply+1988+Cafe/data=!4m7!3m6!1s0x314219ea0fbe7fc5:0x79551e1a41f38243!8m2!3d16.063962!4d108.2228313!16s%2Fg%2F11pd_95qf_!19sChIJxX--D-oZQjERQ4LzQRoeVXk?authuser=0&hl=en&rclk=1"
-  },
-  {
-    "name": "NAM house Cafe",
-    "address": "N/A",
-    "rating": "4.6",
-    "link": "https://www.google.com/maps/place/NAM+house+Cafe/data=!4m7!3m6!1s0x314219ccc550a84d:0x2e1490e9e59ad2ac!8m2!3d16.0632856!4d108.2222436!16s%2Fg%2F11g9q3qyfg!19sChIJTahQxcwZQjERrNKa5emQFC4?authuser=0&hl=en&rclk=1"
-  },
-  {
-    "name": "Nia Coffee",
-    "address": "N/A",
-    "rating": "4.3",
-    "link": "https://www.google.com/maps/place/Nia+Coffee/data=!4m7!3m6!1s0x314219cf43f4d151:0x6f97e2f6f0100ad0!8m2!3d16.0529845!4d108.2214719!16s%2Fg%2F1pzwnl1d9!19sChIJUdH0Q88ZQjER0AoQ8Pbil28?authuser=0&hl=en&rclk=1"
-  },
-  {
-    "name": "Cafe Milano (Coffee & Milktea) - 320 Nguyễn Phước Nguyên, Đà Nẵng",
-    "address": "N/A",
-    "rating": "4.9",
-    "link": "https://www.google.com/maps/place/Cafe+Milano+%28Coffee+%26+Milktea%29+-+320+Nguy%E1%BB%85n+Ph%C6%B0%E1%BB%9Bc+Nguy%C3%AAn,+%C4%90%C3%A0+N%E1%BA%B5ng/data=!4m7!3m6!1s0x314219004aa729e1:0x5cfefa2808d74779!8m2!3d16.0526109!4d108.1844335!16s%2Fg%2F11vm5ryy_d!19sChIJ4SmnSgAZQjEReUfXCCj6_lw?authuser=0&hl=en&rclk=1"
-  },
-  {
-    "name": "Cửa Ngõ Cafe",
-    "address": "N/A",
-    "rating": "4.5",
-    "link": "https://www.google.com/maps/place/C%E1%BB%ADa+Ng%C3%B5+Cafe/data=!4m7!3m6!1s0x314219805c6565cf:0xb2046216c06654f5!8m2!3d16.0719706!4d108.2181749!16s%2Fg%2F11rzcp_r2k!19sChIJz2VlXIAZQjER9VRmwBZiBLI?authuser=0&hl=en&rclk=1"
-  },
-  {
-    "name": "Đốm Café",
-    "address": "N/A",
-    "rating": "4.9",
-    "link": "https://www.google.com/maps/place/%C4%90%E1%BB%91m+Caf%C3%A9/data=!4m7!3m6!1s0x314219878e040fe1:0x4350fc2858831a8!8m2!3d16.0555999!4d108.2216885!16s%2Fg%2F11pv5npglc!19sChIJ4Q8EjocZQjERqDGIhcIPNQQ?authuser=0&hl=en&rclk=1"
-  },
-  {
-    "name": "Ơi Cafe: cà phê sân vườn, giá hấp dẫn, chill, bình yên, cà phê muối",
-    "address": "N/A",
-    "rating": "4.5",
-    "link": "https://www.google.com/maps/place/%C6%A0i+Cafe:+c%C3%A0+ph%C3%AA+s%C3%A2n+v%C6%B0%E1%BB%9Dn,+gi%C3%A1+h%E1%BA%A5p+d%E1%BA%ABn,+chill,+b%C3%ACnh+y%C3%AAn,+c%C3%A0+ph%C3%AA+mu%E1%BB%91i/data=!4m7!3m6!1s0x31421951e52e48b9:0xe8727435c00bf9c5!8m2!3d16.0545033!4d108.2209628!16s%2Fg%2F11khbv0_8t!19sChIJuUgu5VEZQjERxfkLwDV0cug?authuser=0&hl=en&rclk=1"
-  },
-  {
-    "name": "Hem Xeo",
-    "address": "N/A",
-    "rating": "4.7",
-    "link": "https://www.google.com/maps/place/Hem+Xeo/data=!4m7!3m6!1s0x314219b9f2efd265:0x5e0a2cc156361522!8m2!3d16.0523796!4d108.2062998!16s%2Fg%2F11f3vdmnbh!19sChIJZdLv8rkZQjERIhU2VsEsCl4?authuser=0&hl=en&rclk=1"
-  },
-  {
-    "name": "Cổ Động Cafe",
-    "address": "N/A",
-    "rating": "4.9",
-    "link": "https://www.google.com/maps/place/C%E1%BB%95+%C4%90%E1%BB%99ng+Cafe/data=!4m7!3m6!1s0x314219f0acc5f66f:0xb79e473d833c2fbb!8m2!3d16.0522882!4d108.2051718!16s%2Fg%2F11tbzl6dgb!19sChIJb_bFrPAZQjERuy88gz1Hnrc?authuser=0&hl=en&rclk=1"
-  },
-  {
-    "name": "I COFFEE",
-    "address": "N/A",
-    "rating": "3.9",
-    "link": "https://www.google.com/maps/place/I+COFFEE/data=!4m7!3m6!1s0x314219d556554713:0xc88a8045959712ca!8m2!3d16.0602043!4d108.2171271!16s%2Fg%2F11jt39ch7c!19sChIJE0dVVtUZQjERyhKXlUWAisg?authuser=0&hl=en&rclk=1"
-  },
-  {
-    "name": "Namto House Coffee & Vietnamese Cuisine",
-    "address": "N/A",
-    "rating": "4.5",
-    "link": "https://www.google.com/maps/place/Namto+House+Coffee+%26+Vietnamese+Cuisine/data=!4m7!3m6!1s0x3142199f4577a21d:0x9e152035e28c81d9!8m2!3d16.0677357!4d108.2208447!16s%2Fg%2F11fnb14vc2!19sChIJHaJ3RZ8ZQjER2YGM4jUgFZ4?authuser=0&hl=en&rclk=1"
-  },
-  {
-    "name": "IKIGAI . garden . cafe",
+    "name": "Phê Coffee",
     "address": "N/A",
     "rating": "4.4",
-    "link": "https://www.google.com/maps/place/IKIGAI+.+garden+.+cafe/data=!4m7!3m6!1s0x3142198e485eda79:0x91cf5b707450a662!8m2!3d16.0740215!4d108.2205959!16s%2Fg%2F11js7bd1jn!19sChIJedpeSI4ZQjERYqZQdHBbz5E?authuser=0&hl=en&rclk=1"
+    "link": "https://www.google.com/maps/place/Ph%C3%AA+Coffee/data=!4m7!3m6!1s0x314219a84889aab3:0x9fd8ed1f1d8a579a!8m2!3d16.0546513!4d108.2208819!16s%2Fg%2F11t0psfvwm!19sChIJs6qJSKgZQjERmleKHR_t2J8?authuser=0&hl=en&rclk=1",
+    "address_detail": "03 Nguyễn Bá Học, Bình Thuận, Hải Châu, Đà Nẵng 550000",
+    "phone": "0902 575 368",
+    "website": "N/A",
+    "plus_code": "363C+V9 Hải Châu District, Da Nang",
+    "price_range": "N/A",
+    "open_hours": {
+      "Wednesday": "Open 24 hours",
+      "Thursday": "Open 24 hours",
+      "Friday": "Open 24 hours",
+      "Saturday": "Open 24 hours",
+      "Sunday": "Open 24 hours",
+      "Monday": "Open 24 hours",
+      "Tuesday": "Open 24 hours"
+    }
   },
   {
-    "name": "Tân Coffee",
+    "name": "Vối cà phê- tiệm cà phê nhà Vối",
     "address": "N/A",
-    "rating": "4.5",
-    "link": "https://www.google.com/maps/place/T%C3%A2n+Coffee/data=!4m7!3m6!1s0x31421966a365dcd7:0xc318528bf0b8d44b!8m2!3d16.0565099!4d108.22162!16s%2Fg%2F11l1qjf0fl!19sChIJ19xlo2YZQjERS9S48ItSGMM?authuser=0&hl=en&rclk=1"
+    "rating": "4.6",
+    "link": "https://www.google.com/maps/place/V%E1%BB%91i+c%C3%A0+ph%C3%AA-+ti%E1%BB%87m+c%C3%A0+ph%C3%AA+nh%C3%A0+V%E1%BB%91i/data=!4m7!3m6!1s0x314219c9ca7a1b63:0x46340e7fc0f2c717!8m2!3d16.0474011!4d108.2087224!16s%2Fg%2F11ptyx_x5_!19sChIJYxt6yskZQjERF8fywH8ONEY?authuser=0&hl=en&rclk=1",
+    "address_detail": "68/23 Nguyễn Hữu Thọ, Hòa Thuận Nam, Hải Châu, Đà Nẵng 550000",
+    "phone": "0344 108 411",
+    "website": "N/A",
+    "plus_code": "26W5+XF Hải Châu District, Da Nang",
+    "price_range": "N/A",
+    "open_hours": {
+      "Wednesday": "7 AM–10 PM",
+      "Thursday": "7 AM–10 PM",
+      "Friday": "7 AM–10 PM",
+      "Saturday": "7 AM–10 PM",
+      "Sunday": "7 AM–10 PM",
+      "Monday": "7 AM–10 PM",
+      "Tuesday": "7 AM–10 PM"
+    }
   },
   {
-    "name": "Ibasho Coffee",
-    "address": "N/A",
-    "rating": "4.1",
-    "link": "https://www.google.com/maps/place/Ibasho+Coffee/data=!4m7!3m6!1s0x31421949baf9e1a1:0x71f980b2515c49c5!8m2!3d16.072602!4d108.1798707!16s%2Fg%2F11qyn_6jxq!19sChIJoeH5ukkZQjERxUlcUbKA-XE?authuser=0&hl=en&rclk=1"
-  },
-  {
-    "name": "XLIII Specialty Coffee",
+    "name": "Cà Phê Muối Huế 3 - N Salt Cafe Trần Phú",
     "address": "N/A",
     "rating": "4.7",
-    "link": "https://www.google.com/maps/place/XLIII+Specialty+Coffee/data=!4m7!3m6!1s0x314217b3ee661bef:0x516cdf137fb627ef!8m2!3d16.0480872!4d108.2460233!16s%2Fg%2F11g10nqwyc!19sChIJ7xtm7rMXQjER7ye2fxPfbFE?authuser=0&hl=en&rclk=1"
-  },
-  {
-    "name": "Khong Gian Xua",
-    "address": "N/A",
-    "rating": "4.2",
-    "link": "https://www.google.com/maps/place/Khong+Gian+Xua/data=!4m7!3m6!1s0x314219001064ce23:0x67d2fa43164ccba6!8m2!3d16.0663007!4d108.18943!16s%2Fg%2F1hhngl_mz!19sChIJI85kEAAZQjERpstMFkP60mc?authuser=0&hl=en&rclk=1"
-  },
-  {
-    "name": "SaiGon Brown Coffee",
-    "address": "N/A",
-    "rating": "4.2",
-    "link": "https://www.google.com/maps/place/SaiGon+Brown+Coffee/data=!4m7!3m6!1s0x314219252364b16b:0x8db861d1104b5ced!8m2!3d16.0602436!4d108.1744226!16s%2Fg%2F11fj33_yf0!19sChIJa7FkIyUZQjER7VxLENFhuI0?authuser=0&hl=en&rclk=1"
-  },
-  {
-    "name": "Ante Café",
-    "address": "N/A",
-    "rating": "4.5",
-    "link": "https://www.google.com/maps/place/Ante+Caf%C3%A9/data=!4m7!3m6!1s0x3142194943bab715:0xfe50a8f722bfc108!8m2!3d16.0561128!4d108.2227785!16s%2Fg%2F11mb43y7wf!19sChIJFbe6Q0kZQjERCMG_IveoUP4?authuser=0&hl=en&rclk=1"
-  },
-  {
-    "name": "Út Tịch café",
-    "address": "N/A",
-    "rating": "4.4",
-    "link": "https://www.google.com/maps/place/%C3%9At+T%E1%BB%8Bch+caf%C3%A9/data=!4m7!3m6!1s0x314219da0263e79d:0xa0690ee738dd2730!8m2!3d16.0681003!4d108.2227551!16s%2Fg%2F11ghnph0pd!19sChIJnedjAtoZQjERMCfdOOcOaaA?authuser=0&hl=en&rclk=1"
-  },
-  {
-    "name": "Wind Garden",
-    "address": "N/A",
-    "rating": "4.3",
-    "link": "https://www.google.com/maps/place/Wind+Garden/data=!4m7!3m6!1s0x31421788b5ae9f13:0x4258793219812e82!8m2!3d16.0745693!4d108.2434889!16s%2Fg%2F11b6nmv8qt!19sChIJE5-utYgXQjERgi6BGTJ5WEI?authuser=0&hl=en&rclk=1"
+    "link": "https://www.google.com/maps/place/C%C3%A0+Ph%C3%AA+Mu%E1%BB%91i+Hu%E1%BA%BF+3+-+N+Salt+Cafe+Tr%E1%BA%A7n+Ph%C3%BA/data=!4m7!3m6!1s0x314219b9f95093ff:0x9c227b38dfe8cb20!8m2!3d16.0627037!4d108.223172!16s%2Fg%2F11t608llp3!19sChIJ_5NQ-bkZQjERIMvo3zh7Ipw?authuser=0&hl=en&rclk=1",
+    "address_detail": "254 Trần Phú, Phước Ninh, Hải Châu, Đà Nẵng 550000",
+    "phone": "0385 567 050",
+    "website": "http://www.caphemuoihue.com/",
+    "plus_code": "367F+37 Hải Châu District, Da Nang",
+    "price_range": "N/A",
+    "open_hours": {
+      "Wednesday": "6:30 AM–10 PM",
+      "Thursday": "6:30 AM–10 PM",
+      "Friday": "6:30 AM–10 PM",
+      "Saturday": "6:30 AM–10 PM",
+      "Sunday": "6:30 AM–10 PM",
+      "Monday": "6:30 AM–10 PM",
+      "Tuesday": "6:30 AM–10 PM"
+    }
   }
 ]

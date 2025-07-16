@@ -1,32 +1,102 @@
 [
   {
-    "name": "Bếp Hên",
+    "name": "MAAZI Da Nang",
     "address": "N/A",
-    "rating": "4.5",
-    "link": "https://www.google.com/maps/place/B%E1%BA%BFp+H%C3%AAn/data=!4m7!3m6!1s0x314219b85d3066c5:0x49abed782034b9e8!8m2!3d16.0639161!4d108.2210361!16s%2Fg%2F11h0vttspf!19sChIJxWYwXbgZQjER6Lk0IHjtq0k?authuser=0&hl=en&rclk=1"
+    "rating": "4.8",
+    "link": "https://www.google.com/maps/place/MAAZI+Da+Nang/data=!4m7!3m6!1s0x314219835d28a4a9:0xf4af19405433f45f!8m2!3d16.0622399!4d108.2231519!16s%2Fg%2F11khx0r1y9!19sChIJqaQoXYMZQjERX_QzVEAZr_Q?authuser=0&hl=en&rclk=1",
+    "address_detail": "264 Trần Phú, Phước Ninh, Hải Châu, Đà Nẵng 700000",
+    "phone": "0236 3522 211",
+    "website": "https://www.facebook.com/profile.php?id=100090231345906",
+    "plus_code": "366F+V7 Hải Châu District, Da Nang",
+    "price_range": "N/A",
+    "open_hours": {
+      "Wednesday": "11 AM–12 AM",
+      "Thursday": "11 AM–12 AM",
+      "Friday": "11 AM–12 AM",
+      "Saturday": "11 AM–12 AM",
+      "Sunday": "11 AM–12 AM",
+      "Monday": "11 AM–12 AM",
+      "Tuesday": "11 AM–12 AM"
+    }
   },
   {
     "name": "Nhà hàng NHÀ BẾP CHỢ HÀN",
     "address": "N/A",
     "rating": "4.7",
-    "link": "https://www.google.com/maps/place/Nh%C3%A0+h%C3%A0ng+NH%C3%80+B%E1%BA%BEP+CH%E1%BB%A2+H%C3%80N/data=!4m7!3m6!1s0x3142192dea33553f:0x67195ccda4ab2f7f!8m2!3d16.0687376!4d108.2243375!16s%2Fg%2F11t9c4w9cn!19sChIJP1Uz6i0ZQjERfy-rpM1cGWc?authuser=0&hl=en&rclk=1"
+    "link": "https://www.google.com/maps/place/Nh%C3%A0+h%C3%A0ng+NH%C3%80+B%E1%BA%BEP+CH%E1%BB%A2+H%C3%80N/data=!4m7!3m6!1s0x3142192dea33553f:0x67195ccda4ab2f7f!8m2!3d16.0687376!4d108.2243375!16s%2Fg%2F11t9c4w9cn!19sChIJP1Uz6i0ZQjERfy-rpM1cGWc?authuser=0&hl=en&rclk=1",
+    "address_detail": "22 Hùng Vương, Hải Châu, Đà Nẵng 550000",
+    "phone": "0236 3966 268",
+    "website": "https://cafe.naver.com/flymap",
+    "plus_code": "369F+FP Hải Châu District, Da Nang",
+    "price_range": "N/A",
+    "open_hours": {
+      "Wednesday": "9 AM–10 PM",
+      "Thursday": "9 AM–10 PM",
+      "Friday": "9 AM–10 PM",
+      "Saturday": "9 AM–10 PM",
+      "Sunday": "9 AM–10 PM",
+      "Monday": "9 AM–10 PM",
+      "Tuesday": "9 AM–10 PM"
+    }
+  },
+  {
+    "name": "Bếp Hên",
+    "address": "N/A",
+    "rating": "4.5",
+    "link": "https://www.google.com/maps/place/B%E1%BA%BFp+H%C3%AAn/data=!4m7!3m6!1s0x314219b85d3066c5:0x49abed782034b9e8!8m2!3d16.0639161!4d108.2210361!16s%2Fg%2F11h0vttspf!19sChIJxWYwXbgZQjER6Lk0IHjtq0k?authuser=0&hl=en&rclk=1",
+    "address_detail": "47 Lê Hồng Phong, Phước Ninh, Hải Châu, Đà Nẵng 84236",
+    "phone": "0935 337 705",
+    "website": "https://www.bephenrestaurant.com/",
+    "plus_code": "367C+HC Hải Châu District, Da Nang",
+    "price_range": "N/A",
+    "open_hours": {
+      "Wednesday": "9 AM–2:30 PM5–8:30 PM",
+      "Thursday": "9 AM–2:30 PM5–8:30 PM",
+      "Friday": "9 AM–2:30 PM5–8:30 PM",
+      "Saturday": "9 AM–2:30 PM5–8:30 PM",
+      "Sunday": "9 AM–2:30 PM5–8:30 PM",
+      "Monday": "9 AM–2:30 PM5–8:30 PM",
+      "Tuesday": "9 AM–2:30 PM5–8:30 PM"
+    }
   },
   {
     "name": "Ăn Thôi Restaurant",
     "address": "N/A",
     "rating": "4.6",
-    "link": "https://www.google.com/maps/place/%C4%82n+Th%C3%B4i+Restaurant/data=!4m7!3m6!1s0x3142194921d15361:0xdd9637b7caf7eb1f!8m2!3d16.0682463!4d108.2248133!16s%2Fg%2F11tfk6fw62!19sChIJYVPRIUkZQjERH-v3yrc3lt0?authuser=0&hl=en&rclk=1"
+    "link": "https://www.google.com/maps/place/%C4%82n+Th%C3%B4i+Restaurant/data=!4m7!3m6!1s0x3142194921d15361:0xdd9637b7caf7eb1f!8m2!3d16.0682463!4d108.2248133!16s%2Fg%2F11tfk6fw62!19sChIJYVPRIUkZQjERH-v3yrc3lt0?authuser=0&hl=en&rclk=1",
+    "address_detail": "114 Bạch Đằng, Hải Châu, Đà Nẵng 550000",
+    "phone": "0987 824 285",
+    "website": "N/A",
+    "plus_code": "369F+7W Hải Châu District, Da Nang",
+    "price_range": "N/A",
+    "open_hours": {
+      "Wednesday": "10:30 AM–9:30 PM",
+      "Thursday": "10:30 AM–9:30 PM",
+      "Friday": "10:30 AM–9:30 PM",
+      "Saturday": "10:30 AM–9:30 PM",
+      "Sunday": "10:30 AM–9:30 PM",
+      "Monday": "10:30 AM–9:30 PM",
+      "Tuesday": "10:30 AM–9:30 PM"
+    }
   },
   {
-    "name": "Thìa Gỗ Restaurant Da Nang",
-    "address": "N/A",
-    "rating": "4.7",
-    "link": "https://www.google.com/maps/place/Th%C3%ACa+G%E1%BB%97+Restaurant+Da+Nang/data=!4m7!3m6!1s0x314219c3b54c18d7:0x5028941bdf1ab5f5!8m2!3d16.0529867!4d108.2415777!16s%2Fg%2F11f3q_8q_1!19sChIJ1xhMtcMZQjER9bUa3xuUKFA?authuser=0&hl=en&rclk=1"
-  },
-  {
-    "name": "Nhà Gỗ Restaurant Da Nang",
+    "name": "Gypsy Rooftop Restaurant & Bar",
     "address": "N/A",
     "rating": "4.9",
-    "link": "https://www.google.com/maps/place/Nh%C3%A0+G%E1%BB%97+Restaurant+Da+Nang/data=!4m7!3m6!1s0x3142196e455d2b63:0xafc2ec3a033d5eeb!8m2!3d16.0679495!4d108.2232911!16s%2Fg%2F11wqtkbc2s!19sChIJYytdRW4ZQjER6149Azrswq8?authuser=0&hl=en&rclk=1"
+    "link": "https://www.google.com/maps/place/Gypsy+Rooftop+Restaurant+%26+Bar/data=!4m7!3m6!1s0x3142190c4beda5ef:0x14568ecf8256aa25!8m2!3d16.0826849!4d108.2212587!16s%2Fg%2F11khkc9s2m!19sChIJ76XtSwwZQjERJapWgs-OVhQ?authuser=0&hl=en&rclk=1",
+    "address_detail": "20 Đống Đa, Street, Hải Châu, Đà Nẵng 550000",
+    "phone": "0767 194 074",
+    "website": "https://thegypsydng.com/",
+    "plus_code": "36MC+3G Hải Châu District, Da Nang",
+    "price_range": "N/A",
+    "open_hours": {
+      "Wednesday": "5–11:30 PM",
+      "Thursday": "5–11:30 PM",
+      "Friday": "5–11:30 PM",
+      "Saturday": "5–11:30 PM",
+      "Sunday": "5–11:30 PM",
+      "Monday": "5–11:30 PM",
+      "Tuesday": "5–11:30 PM"
+    }
   }
 ]
